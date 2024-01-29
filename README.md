@@ -9,10 +9,9 @@
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I love crocheting and learned through Youtube videos! 🧶
 
+<img src="https://github.com/christina-hyman/christina-hyman/assets/120415306/4bbfef24-593a-437b-b06e-7349645d3ad2" width="300" />
+
 <!--
-**christina-hyman/christina-hyman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 
 -->
+
