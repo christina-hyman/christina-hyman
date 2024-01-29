@@ -7,7 +7,7 @@
 - 💬 Ask me about anything!
 - 📫 How to reach me: christina.a.hyman@pace.edu
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I love crocheting and learned through Youtube videos!
+- ⚡ Fun fact: I love crocheting and learned through Youtube videos! 🧶
 
 <!--
 **christina-hyman/christina-hyman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
