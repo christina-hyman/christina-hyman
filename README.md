@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on obtaining my Masters in Data Science at Pace University
-- 🌱 I’m currently learning different types of APIs, how to use Github, and how to create my own research project.
+- 🌱 I’m learning different types of APIs, how to use Github, and how to create my own research project.
 - 👯 I’m looking to collaborate on creating my Capstone Research Project with my peers and professor.
 - 🤔 I’m looking for help with how to navitgate Github and how to use APIs.
 - 💬 Ask me about anything!
