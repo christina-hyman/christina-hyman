@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! 👋
 
 - 🔭 I’m currently looking for work as a Data Scientist!
 - 👩‍💻 Feel free to browse my repositories and provide feedback.
@@ -6,11 +6,4 @@
 - 💭 Ask me about anything!
 - 📫 How to reach me: christina.a.hyman@gmail.com
 - 😄 Pronouns: she/her/hers
-- 🧶 Fun fact: I love to crochet and learned through Youtube videos! 
-
-<img src="https://github.com/christina-hyman/christina-hyman/assets/120415306/4bbfef24-593a-437b-b06e-7349645d3ad2" width="300" />
-
-<!--
-
--->
-
+- 🧶 Fun fact: I love to crochet and learned through Youtube videos!
